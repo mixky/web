@@ -1,0 +1,19 @@
+header, nav, footer {
+display:none;
+}
+body img{
+display:none;
+}
+#Chls, #Historie, #Hraci, #infoBox{
+font-size: 30px;
+}
+#stranka{
+  width: 100%;
+}
+#copy{
+	display: block;
+}
+a{
+text-decoration:none;
+color:#000;
+}

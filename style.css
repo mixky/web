@@ -1,0 +1,85 @@
+a.horni
+{
+    
+    width: auto;
+    text-decoration: none;
+    font-family: "Felix Titling", Arial Black;
+    font-size: 1.45em;
+    color: black;
+    padding-left: 40px;
+    background-color: #ffffff;
+
+
+}
+
+a {
+	font-weight: bold;
+}
+
+header
+  {background-color: white;
+  border-style:dashed ;}
+
+a.info
+{
+   
+    text-decoration: none;
+    color: black;
+    font-family: Verdana;
+    font-size: 14px;
+    vertical-align: text-top;
+    text-align: left;
+   
+	
+}
+
+#infoBox
+{
+float: right;
+}
+
+h1 {font-size:30px;
+    font-family: "Verdana";
+    text-align:center;}
+
+
+h2 {font-size:20px;
+    font-family: "Verdana";
+  }
+
+a.horni:hover
+{
+    color: blue;
+}
+
+#copy
+{
+    display: none;
+}
+
+
+p, article
+
+{
+    font-family: Verdana, Geneva;
+    font-size: 14px;
+}
+
+#hlText
+{
+    font-family: Verdana, Geneva;
+    font-size: 19px;
+    text-align: justify;
+}
+
+#stranka
+{
+    margin-left: auto;
+    margin-right: auto;
+    border-style:solid;
+
+}
+
+
+
+
